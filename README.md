@@ -1,6 +1,6 @@
 # VBA Stock Market Analysis
 
-##Created a script to loop through all stocks and do the following:
+## Created a script to loop through all stocks and do the following:
 
 
 * Display yearly change for each stock's yearly opening and closing price.
